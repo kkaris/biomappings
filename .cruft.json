@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/cthoyt/cookiecutter-snekpack",
-  "commit": "bf7c8e2ad5312d1aafdb5fd4128c957aedb8d96d",
+  "commit": "d59632c93b5ae63cc8252e8008059c0444e9e7b0",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -24,7 +24,7 @@
       "__runner_tests": "py",
       "__gh_slug": "biopragmatics/biomappings",
       "_template": "https://github.com/cthoyt/cookiecutter-snekpack",
-      "_commit": "bf7c8e2ad5312d1aafdb5fd4128c957aedb8d96d"
+      "_commit": "d59632c93b5ae63cc8252e8008059c0444e9e7b0"
     }
   },
   "directory": null
